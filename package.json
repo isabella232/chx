@@ -15,7 +15,8 @@
     "babel-preset-es2015": "6.9.0"
   },
   "scripts": {
-    "build": "babel index > build.js"
+    "build": "babel index.js > build.js",
+    "prepublish": "npm run build"
   },
   "babel": {
     "presets": [
