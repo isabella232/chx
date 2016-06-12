@@ -5,14 +5,18 @@ with [chalk](https://github.com/chalk/chalk) a HTML-like experience.
 
 ## How to use
 
-```js
+<img src="https://cldup.com/RYJLRgVr7s.png" width="400" align="right" />
+
+```jsx
 /** @jsx chx */
 import chx from 'chx';
 
 console.log(<p>
   Welcome to the <b>future</b>.<br />
   What's your <cyan>name</cyan>?<br />
-  Hope you enjoy your <bg color="yellow">time here</bg>.
+  Hope you enjoy your <bg color="yellow">time here</bg>.<br />
+  <red>H</red><yellow>a</yellow><blue>v</blue><green>e</green>{' '}
+  <cyan>f</cyan><white>u</white><magenta>n</magenta><bgRed>!</bgRed>
 </p>);
 ```
 
