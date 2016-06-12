@@ -38,7 +38,5 @@ and make sure the babel transform [`react-jsx`](https://www.npmjs.com/package/ba
   - `<chx>`
   - `<span>`
 
-## Advanced UI
-
-For more advanced UI needs,
+For more advanced terminal UI needs,
 check out [react-blessed](https://github.com/Yomguithereal/react-blessed).
