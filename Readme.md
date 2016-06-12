@@ -33,6 +33,7 @@ and make sure the babel transform [`react-jsx`](https://www.npmjs.com/package/ba
   - `<u>` (underline)
   - `<strike>` (strikethrough)
 - A special `<bg color>` element is available as a shorthand.
+- `<br />` as an alternative for `{'\n'}`
 - To wrap, we expose a few noop elements. Use whichever you like most:
   - `<p>`
   - `<chx>`
