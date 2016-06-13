@@ -1,7 +1,6 @@
 # chx
 
-A wrapper on top of JSX to make outputting text on a terminal
-with [chalk](https://github.com/chalk/chalk) a HTML-like experience.
+A wrapper on top of [chalk](https://github.com/chalk/chalk) to make outputting text on a terminal an HTML-like experience.
 
 ## How to use
 
