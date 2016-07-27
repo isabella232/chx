@@ -10,6 +10,9 @@
   "peerDependencies": {
     "chalk": "1.x.x"
   },
+  "greenkeeper": {
+    "emails": false
+  },
   "devDependencies": {
     "chalk": "1.1.3",
     "babel-cli": "6.11.4",
