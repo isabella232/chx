@@ -1,4 +1,4 @@
-# chx
+# chx [![Build Status](https://travis-ci.org/zeit/chx.svg?branch=master)](https://travis-ci.org/zeit/chx)
 
 A wrapper on top of [chalk](https://github.com/chalk/chalk) to make outputting text on a terminal an HTML-like experience.
 
