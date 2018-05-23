@@ -1,4 +1,4 @@
-# chx [![Build Status](https://travis-ci.org/zeit/chx.svg?branch=master)](https://travis-ci.org/zeit/chx)
+# chx [![Build Status](https://travis-ci.org/zeit/chx.svg?branch=master)](https://travis-ci.org/zeit/chx) [![Greenkeeper badge](https://badges.greenkeeper.io/zeit/chx.svg)](https://greenkeeper.io/)
 
 A wrapper on top of [chalk](https://github.com/chalk/chalk) to make outputting text on a terminal an HTML-like experience.
 
